@@ -53,6 +53,7 @@ ul {
     letter-spacing: 0.02em;
     text-align: left;
     color: #434455;
+    font-style: normal;
         
 }
 
@@ -120,4 +121,8 @@ ul {
 
 .title-portfolio {
     list-style-type: none;
+}
+
+.ulnav {
+    color: #2e2f42;
 }
