@@ -31,18 +31,17 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
-        color: #2e2f42;
-    
+        
 }
 
-.nav ul li a:hover {
-    color: #404BBF;
-}
-.nav ul li a:active {
-    color: #404BBF;
+.nav-menu-link {
+color: #2e2f42;
 }
 
-.adress ul li a:hover {
+.nav-menu-link:hover {
+    color: #404BBF;
+}
+.nav-menu-link:focus {
     color: #404BBF;
 }
 
@@ -52,9 +51,17 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
-    color: #434455;
     font-style: normal;
         
+}
+.adr-link {
+    color: #434455;
+}
+.adr-link:hover {
+    color: #404bbf;
+}
+.adr-link:active {
+    color: #404bbf;
 }
 
 
@@ -74,7 +81,7 @@ ul {
     background-color: #404BBF;
 }
 
-.button:active {
+.button:focus {
     background-color: #404BBF;
 }
 
@@ -133,6 +140,3 @@ ul {
     list-style-type: none;
 }
 
-.ulnav {
-    color: #2e2f42;
-}
