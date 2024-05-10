@@ -60,7 +60,7 @@ color: #2e2f42;
 .adr-link:hover {
     color: #404bbf;
 }
-.adr-link:active {
+.adr-link:focus {
     color: #404bbf;
 }
 
@@ -99,6 +99,48 @@ color: #2e2f42;
     line-height: 1.07;
 }
 
+.paragraf-team {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+        text-align: center;
+}
+
+.title-name {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-align: center;
+}
+
+.title-prof {
+    font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+
+.sec-portf {
+    background-color: #F4F4FD;
+
+}
+.title-portf {
+    
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
+        color: #2e2f42;
+}
+
+
 .foot {
     background-color: #2E2F42;
 }
@@ -129,8 +171,7 @@ color: #2e2f42;
 
 .title-team {
     list-style-type: none;
-    text-align: center;
-}
+    }
 
 .title-features {
     list-style-type: none;
