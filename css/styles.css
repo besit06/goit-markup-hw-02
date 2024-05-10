@@ -78,7 +78,7 @@ ul {
     background-color: #404BBF;
 }
 
-.sec-one {
+.section-title {
     background-color: #2E2F42;
 }
 
@@ -103,7 +103,8 @@ ul {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-align: left;
-    color: #F4F4FD;
+    color: #4d5ae5;
+    text-transform: uppercase;
 }
 
 .text-foot {
@@ -113,6 +114,10 @@ ul {
     letter-spacing: 0.02em;
     text-align: left;
     color: #F4F4FD;
+}
+
+.web-foot {
+    color: #f4f4fd;
 }
 
 .title-team {
