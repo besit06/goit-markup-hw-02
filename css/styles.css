@@ -74,7 +74,11 @@ ul {
     background-color: #404BBF;
 }
 
-.sec1 {
+.button:active {
+    background-color: #404BBF;
+}
+
+.sec-one {
     background-color: #2E2F42;
 }
 
@@ -85,6 +89,7 @@ ul {
     letter-spacing: 0.02em;
     color: #FFFFFF;
     text-align: center;
+    line-height: 1.07;
 }
 
 .foot {
@@ -92,10 +97,10 @@ ul {
 }
 
 .logo-foot {
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.1666;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-align: left;
     color: #F4F4FD;
