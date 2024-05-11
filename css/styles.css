@@ -131,6 +131,7 @@ background-color: #FFFFFF;
             letter-spacing: 0.02em;
             text-align: center;
             text-transform: capitalize;
+            color: #2e2f42;
 }
 
 .title-name {
@@ -164,6 +165,23 @@ background-color: #FFFFFF;
         text-align: center;
         text-transform: capitalize;
         color: #2e2f42;
+}
+
+.title-port {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: #2e2f42;
+}
+
+.text-port {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: left;
 }
 
 
