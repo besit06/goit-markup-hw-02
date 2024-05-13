@@ -54,13 +54,13 @@ color: #2e2f42;
     font-style: normal;
         
 }
-.adr-link {
+.adress-link {
     color: #434455;
 }
-.adr-link:hover {
+.adress-link:hover {
     color: #404bbf;
 }
-.adr-link:focus {
+.adress-link:focus {
     color: #404bbf;
 }
 
@@ -120,11 +120,11 @@ color: #2e2f42;
     background-color: #F4F4FD;
 }
 
-.team-list {
+.team-item {
 background-color: #FFFFFF;
 }
 
-.paragraf-team {
+.title-team {
             font-size: 36px;
             font-weight: 700;
             line-height: 1.11;
@@ -152,11 +152,11 @@ background-color: #FFFFFF;
         color: #434455;
 }
 
-.sec-portf {
+.sec-portfolio {
     background-color: #F4F4FD;
 
 }
-.title-portf {
+.main-portfolio {
     
         font-size: 36px;
         font-weight: 700;
@@ -167,7 +167,7 @@ background-color: #FFFFFF;
         color: #2e2f42;
 }
 
-.title-port {
+.title-portfolio {
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -176,7 +176,7 @@ background-color: #FFFFFF;
         color: #2e2f42;
 }
 
-.text-port {
+.text-portfolio {
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
@@ -221,7 +221,7 @@ background-color: #FFFFFF;
     list-style-type: none;
 }
 
-.title-portfolio {
+.list-portfolio {
     list-style-type: none;
 }
 
